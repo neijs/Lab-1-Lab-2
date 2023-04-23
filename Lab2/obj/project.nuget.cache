@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUQBMkbgNu+A++WY04PRzKTKzmbEflBMg+3T5U2/ELfex8AY4EecKKdMSiOI7/bfdbfp9Ly6YC6E/6mrpPcsxQ==",
+  "success": true,
+  "projectFilePath": "D:\\CSHARP\\Lab2\\Lab2\\SpringLab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neijs\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\scottplot\\4.1.63\\scottplot.4.1.63.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\scottplot.wpf\\4.1.63\\scottplot.wpf.4.1.63.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\neijs\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

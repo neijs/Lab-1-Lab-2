@@ -1,0 +1,12 @@
+D:\CSHARP\Lab2\Build\x64\Debug\CLS_lib.deps.json
+D:\CSHARP\Lab2\Build\x64\Debug\CLS_lib.dll
+D:\CSHARP\Lab2\Build\x64\Debug\CLS_lib.pdb
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.csproj.AssemblyReference.cache
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.AssemblyInfoInputs.cache
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.AssemblyInfo.cs
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.csproj.CoreCompileInputs.cache
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.dll
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\refint\CLS_lib.dll
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\CLS_lib.pdb
+D:\CSHARP\Lab2\CLS_lib\obj\Debug\ref\CLS_lib.dll
